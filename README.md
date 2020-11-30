@@ -1,10 +1,10 @@
 # Arduino-dmx-receiver
 
-The Software allows you  to receive DMX512 Data with an Arduino an the SN75176bp.
+The Software allows you to receive DMX512 Data with an Arduino an the SN75176bp.
 
-Tested with arduino nano & arduino Uno
+Tested with Arduino nano & Arduino Uno
 
-You need to use the [Arduino IDE 1.0.6] (https://www.arduino.cc/en/Main/OldSoftwareReleases)
+You need to use the [Arduino IDE 1.0.6](https://www.arduino.cc/en/Main/OldSoftwareReleases)
   - replace the original ...arduino-1.0.6\hardware\arduino\cores\arduino\HardwareSerial.cpp 
   file with the one in this Archive
   - use the Test File for two RGB LEDs
