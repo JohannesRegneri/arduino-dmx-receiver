@@ -1,3 +1,5 @@
+# Arduino-dmx-receiver
+
 The Software allows you  to receive DMX512 Data with an Arduino an the SN75176bp.
 
 Tested with arduino nano & arduino Uno
@@ -12,7 +14,7 @@ You need to use the Arduin IDE 1.0.6 https://www.arduino.cc/en/Main/OldSoftwareR
   
   
   
-  
+  ###Pinout
   
   Pinout for SN75176bp
     1-> RX      5-> VCC
